@@ -1,0 +1,20 @@
+/* body {
+    background-color: #ce3635;
+    text-align: center;
+    /* color: black; */
+
+padding-top: 10em;
+height: 0px;
+*/
+}
+* {
+    color: rgb(10, 112, 56);
+    text-decoration: none;
+}
+.kariba {
+    background-color: white;
+    height: 50px;
+}
+.wrap {
+    color: green;
+}
